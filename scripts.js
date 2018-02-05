@@ -8,6 +8,6 @@ if (value > 0) {
 if (value < 0) {
 	console.log('The result is negative', value);
 }
-if (value == 0) {
+if (value === 0) {
 	console.log('The result is equal ', value);
 }
